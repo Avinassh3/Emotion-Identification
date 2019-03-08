@@ -25,3 +25,5 @@ NOW RUN this file pixel_to_image.py file
 it fills all the photos with proper Images into respective folder
 
 then execute main.py  
+
+it has accuracy rate of 75.94%
